@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour à tous ! Emilie Ponce</h1>
 - Je suis aprenant de la formation professionnelle [La Plateforme Formation](https://laplateforme.io/)
 
-- 📝 J'écris souvent des histoires mais ne publie pas [https://wattpad.com](https://wattpad.com)
+- 📝 J'écris souvent des histoires mais ne publie pas
 
 - 📫 Comment me contacter ? **emilie.ponce@laplateforme.io**
 
